@@ -25,3 +25,9 @@ Java: Version 8 or higher
 Maven: For dependency management
 Selenium WebDriver: For browser automation
 TestNG: For test management and reporting
+
+
+
+<img width="1511" alt="Screenshot 2024-09-18 at 12 11 17 PM" src="https://github.com/user-attachments/assets/6070310e-4e02-4b7a-9d8a-c1a067e97e29">
+
+
