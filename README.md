@@ -1,8 +1,8 @@
-Overview
+**Overview**
 
 This assignment involves automating a web application using Selenium with Java and TestNG. The goal is to navigate to a specified URL and validate the subscription packages offered for different countries.
 
-Task Details
+**Task Details**
 
 Navigate to URL: Open the following web page:
 STC TV Subscription
